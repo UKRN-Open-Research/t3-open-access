@@ -35,11 +35,8 @@ Make a note of points that come up in the <a href="{{ site.collaborative_notes }
 > - What challenges have you faced in publishing OA (or anticipate your attendees would face)?
 > - What do you (the trainer) not know about open access that you want to learn before you give a workshop?
 > - Which aspects of the workshop template would you use in your workshop? What is missing? What would you leave out or change?
-> - Who is your intended audience? 
->   - Take the workshop attendees’ perspective – what do they want out of this workshop?
->   - How to target /recruit them to attend?
+> - Who is your intended audience? Take the workshop attendees’ perspective – what do they want out of this workshop? How to target /recruit them to attend?
 > - What guidance does your institution already offer for OA? Familiarise yourself (or if already familiar, team up with another trainer and see theirs - what is easy/hard to navigate and/or understand?
->
 > 
 {: .discussion}
 
