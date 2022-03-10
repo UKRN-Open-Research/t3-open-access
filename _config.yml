@@ -11,7 +11,7 @@ helpers: []
 # A list of hh|mm time formats [avoids jekyll auto-conversion].
 # Only days with scheduled items get a start time.
 # Days which can't be matched will use the first entry.
-start_times: ["09|00"]
+start_times: ["09|30"]
 # list of files in _includes/install_instructions to use in the setup page
 setup_files: []
 language: en
