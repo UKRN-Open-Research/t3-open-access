@@ -33,10 +33,6 @@ order: 700000
 
 > ## We're here to help
 > Ask us if you get stuck, or just want to talk something over.
->
-> The best way to get our attention is to walk over to a help area in Gather.Town and we'll come to help.
->
-> You can also ask questions in the chat, out loud.
-> Everyone else can ignore the chat/conversation and get on with creating a workshop while it's all going smoothly.
+> 
 {: .testimonial}
 
