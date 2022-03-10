@@ -22,9 +22,8 @@ order: 600000
 We now have a chance to actually build a workshop.
 We are not aiming for a template or for notes that we're expecting you to develop on your own time - we want to produce a workshop right now that you could deliver tomorrow morning.
 
-You have your workshop plan from the <a href="{{ site.ukrn_or_template }}" target="_blank">template</a>.
-Now you can build that plan into a workshop using the <a href="{{ site.ukrn_or_builder }}" target="_blank">Workshop Builder Tool</a> and <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resources Browser</a>.
-When you're using the builder, try adding the lessons from the <a href="{{ site.ukrn_or_demo }}" target="_blank">Open Code and Software Demo Workshop</a>.
+Now you can build your workshop plan into a workshop using the <a href="{{ site.ukrn_or_builder }}" target="_blank">Workshop Builder Tool</a> and <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resources Browser</a>.
+When you're using the builder, try adding the lessons from the <a href="{{ site.ukrn_or_demo }}" target="_blank">Open Access Demo Workshop</a>.
 You can then drag the pages into your workshop and tweak them to say what you want them to say!
 
 If you prefer, you can create your workshop using other tools, of course - the important thing is to get it done!
@@ -37,11 +36,7 @@ If you prefer, you can create your workshop using other tools, of course - the i
 
 > ## We're here to help
 > Ask us if you get stuck, or just want to talk something over.
->
-> The best way to get our attention is to walk over to a help area in Gather.Town and we'll come to help.
->
-> You can also ask questions in the chat, out loud.
-> Everyone else can ignore the chat/conversation and get on with creating a workshop while it's all going smoothly.
+> 
 {: .testimonial}
 
 We'll have a break in 60 minutes and take stock of how everyone's getting on.
