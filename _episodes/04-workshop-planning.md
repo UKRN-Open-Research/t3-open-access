@@ -30,7 +30,7 @@ To help you plan out your workshop structure, you can use our our <a href="{{ si
 We suggest a three-part structure to your workshop which begins with some discussion, gives participants lessons on the topic (including toy examples), and then reserves a large block of time for them to apply what they've learned to their own workflows.
 We're trying to work _with_ people to _tweak_ rather than overhaul how they currently do things.
 
-At each stage, keep in mind both the immediate goal (e.g. participants should learn best practices in writing code) and the ultimate goal (participants should make sharing code part of their normal research workflow).
+At each stage, keep in mind both the immediate goal (e.g. participants should learn about open access policies) and the ultimate goal (participants should make publishing open access a part of their normal research workflow).
 
 
 ## Open Research Resource Browser
@@ -62,5 +62,5 @@ Contributions can be added and available instantly, so just ask us to add someth
 > - What exercises work best for what learning objectives
 > - Feedback on your workshop plan
 > - Best practices that you aren't sure about
-> - General questions about open code and software
+> - General questions about open access publishing
 {: .objectives}
