@@ -39,7 +39,7 @@ Make a note of points that come up in the <a href="{{ site.collaborative_notes }
 >   - Take the workshop attendees’ perspective – what do they want out of this workshop?
 >   - How to target /recruit them to attend?
 > - What guidance does your institution already offer for OA? Familiarise yourself (or if already familiar, team up with another trainer and see theirs - what is easy/hard to navigate and/or understand?
-
+>
 > 
 {: .discussion}
 
