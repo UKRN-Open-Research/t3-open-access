@@ -21,7 +21,7 @@ country:
 latitude:
 longitude:
 start_date:
-collaborative_notes: https://docs.google.com/document/d/1NqGLkMTAW-Qg0aFgeDfQLXJrEoW9gCTfYeTH1TJsqAU/edit?usp=sharing
+collaborative_notes: https://docs.google.com/document/d/1mEN2n3fEZNbTgSj7T_QUXZYBJB9u1SM5PuV1tioQcdE/edit?usp=sharing
 eventbrite:
 # list of files in path _includes/intro/* .md files can be customised; .html files cannot be customised. Files with an initial _ are ignored.
 optional_intro_sections: []
@@ -33,7 +33,7 @@ ukrn_site: https://ukrn.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
 pre_survey: https://docs.google.com/forms/d/e/1FAIpQLScX3ZnzTbtLA4wNuBOA65fdxvKzwNXIvH_g0qTyRKVC3asvag/viewform?usp=pp_url&entry.2087576176=
-post_survey: https://docs.google.com/forms/d/e/1FAIpQLScTpmrePKwyg5bnBwWF5gnDVth691bS1Gnhx0CwQBlsashwfw/viewform?usp=pp_url&entry.579599320=
+post_survey: https://docs.google.com/forms/d/e/1FAIpQLSdhxoMCvJW_Ub7eV1Zh54-Y2zBtMaCUl7-6JG1RFF0h2W_K5w/viewform?usp=pp_url&entry.579599320=
 code_of_conduct: https://www.ukrn.org/code-of-conduct/
 
 ukrn_or_template: 
